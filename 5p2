@@ -1,0 +1,13 @@
+list=[21,12,45,67,34,1,90]
+min=list[0]
+for i in list:
+    if i<min:
+        min=i
+print("minimum element is",min)     
+
+
+
+
+
+output:
+minimum element is 1
